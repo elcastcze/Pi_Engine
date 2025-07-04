@@ -1,0 +1,1071 @@
+{
+  "root": "C:\\Users\\elcas\\Desktop\\EOSTest\\Windows",
+  "structure": [
+    {
+      "name": "devtools",
+      "type": "directory",
+      "children": [
+        {
+          "name": "anticheat_integritytool.cfg",
+          "type": "file",
+          "sha256": "a5e634b3e769f4ea1fc917c67ba3adf926afeaef98a88caf8c3fc17b927c220b"
+        },
+        {
+          "name": "anticheat_integritytool.exe",
+          "type": "file",
+          "sha256": "e081143f06128b18092770ed457ffb50523b07a63712dd37277bd6d496e0b0b6"
+        },
+        {
+          "name": "anticheat_integritytool64.exe",
+          "type": "file",
+          "sha256": "747b132f78cea47f9d9d9d934b0d3e955f13d344b6799ff632ef21dac899392d"
+        },
+        {
+          "name": "base_private.key",
+          "type": "file",
+          "sha256": "6bb86ab5f37696db88ced226e5d59718133c0e7a1da508b39e005ea6dc9fae2d"
+        },
+        {
+          "name": "base_public.cer",
+          "type": "file",
+          "sha256": "ce27bacba8e20019aa419784321fe90ab52d22f85d7e4285cf2c640283ac9630"
+        }
+      ]
+    },
+    {
+      "name": "EAC.exe",
+      "type": "file",
+      "sha256": "41505e16657a08b14450f3002fdcf9cd67f5ffcb08daa760cac5a9010ea57933"
+    },
+    {
+      "name": "EasyAntiCheat",
+      "type": "directory",
+      "children": [
+        {
+          "name": "Certificates",
+          "type": "directory",
+          "children": [
+            {
+              "name": "base.bin",
+              "type": "file",
+              "sha256": "5dd0a125494934e2f1c8e0360f4794f4e18425d2c9d7789b817016d88a418718"
+            },
+            {
+              "name": "base.cer",
+              "type": "file",
+              "sha256": "ce27bacba8e20019aa419784321fe90ab52d22f85d7e4285cf2c640283ac9630"
+            },
+            {
+              "name": "runtime.conf",
+              "type": "file",
+              "sha256": "9e86ab46bf9a8a0ad1869490a89de1c250813ee3130462235326fbe5b1c0e46a"
+            }
+          ]
+        },
+        {
+          "name": "EasyAntiCheat_EOS_Setup.exe",
+          "type": "file",
+          "sha256": "94567bf0dfcf48bfd6a2fa073e854ff6c8fb38ea114d5913dbe2c1d2554bcaae"
+        },
+        {
+          "name": "Licenses",
+          "type": "directory",
+          "children": [
+            {
+              "name": "Apache-2.0.txt",
+              "type": "file",
+              "sha256": "3ddf9be5c28fe27dad143a5dc76eea25222ad1dd68934a047064e56ed2fa40c5"
+            },
+            {
+              "name": "Licenses.txt",
+              "type": "file",
+              "sha256": "54190a62e5220c82536a95d23087b0470697290016df9d98fe096e9bcb7eb8b4"
+            },
+            {
+              "name": "MIT.txt",
+              "type": "file",
+              "sha256": "54a8b5e9bb2e8575f09fadbd59eccd9db3a27331ff4b661b7b18578222fe82c9"
+            }
+          ]
+        },
+        {
+          "name": "Localization",
+          "type": "directory",
+          "children": [
+            {
+              "name": "ar_sa.cfg",
+              "type": "file",
+              "sha256": "126d62b2af58b97e871dc30e069d7c94cf3e47567fb5ed9513253334d7348037"
+            },
+            {
+              "name": "cs_cz.cfg",
+              "type": "file",
+              "sha256": "abc7492c333f241e5d01fb7d9beb50bbb3f034856bbe94a8af0beda219d9c7cf"
+            },
+            {
+              "name": "de_de.cfg",
+              "type": "file",
+              "sha256": "7d5653e3e5acadd3950ed1ff27275576487c144c7e80a259b7c4dfb3449aa22d"
+            },
+            {
+              "name": "en_us.cfg",
+              "type": "file",
+              "sha256": "36bdefab17d12d41970b5ff3b9894aaa333ee4ffeadbe8ed98e74a1cc3b14ee1"
+            },
+            {
+              "name": "es_ar.cfg",
+              "type": "file",
+              "sha256": "939454dded4e4a76510750c763ab6c4a9d25e2989dcb8be3d26edd7b94effd8b"
+            },
+            {
+              "name": "es_es.cfg",
+              "type": "file",
+              "sha256": "20ece90094c1094578eb45c7bc560ac90284a76bcaeb38737b06eca8bbc2ae6e"
+            },
+            {
+              "name": "fr_fr.cfg",
+              "type": "file",
+              "sha256": "c063099b3ab9c80d6cb3ae5edb09497498a28746a2fb77b5d29610b056022a0b"
+            },
+            {
+              "name": "it_it.cfg",
+              "type": "file",
+              "sha256": "2b058ab8cd74d023c2eb722253d44bf3a9ab267c6cadd376b8fe8ae90c63c908"
+            },
+            {
+              "name": "ja_ja.cfg",
+              "type": "file",
+              "sha256": "a85e602eec2902b54a6422744549f7fb3194b302e790326fd1671508027e8aa6"
+            },
+            {
+              "name": "ko_kr.cfg",
+              "type": "file",
+              "sha256": "4aa8839f36b08bcbd3825eabebf20c86049a6bfb16971dc3e896338b51d1cea3"
+            },
+            {
+              "name": "nl_nl.cfg",
+              "type": "file",
+              "sha256": "cd1bbf1737fb9dada9d68b4e2a4cc61b340eea413b4b66e07c582dcdb6a76be1"
+            },
+            {
+              "name": "pl_pl.cfg",
+              "type": "file",
+              "sha256": "640b5b27f3915ac85fbb126b0b97e09d30ac23ec5cc305c7ded49085ca73d409"
+            },
+            {
+              "name": "pt_br.cfg",
+              "type": "file",
+              "sha256": "b925108d71f6fc83204c421f2e789328097876b673a100aeb447714dbf25ba35"
+            },
+            {
+              "name": "ru_ru.cfg",
+              "type": "file",
+              "sha256": "e51068eab8fcf23ecc468ce72f4ea75ad35a08845aafdd71a4f3609bc91ca202"
+            },
+            {
+              "name": "th_th.cfg",
+              "type": "file",
+              "sha256": "6285510607639bd5bdc8ec6cce499e26b21613b16d16ceac68ba92846b16a939"
+            },
+            {
+              "name": "tr_tr.cfg",
+              "type": "file",
+              "sha256": "ca0a048cc48da4d5d8297b73cba284789820d2aafb2c06922320ef912f060467"
+            },
+            {
+              "name": "zh_cn.cfg",
+              "type": "file",
+              "sha256": "ad3c4547ed95a0f33dd80fbc8cf6ae89c5b74d373e04ca2e2fef239fd78fc319"
+            },
+            {
+              "name": "zh_tw.cfg",
+              "type": "file",
+              "sha256": "4d19357342867e5e8033577d3ee95151c2369f95bac7ea91b3a278cad1e1b5f0"
+            }
+          ]
+        },
+        {
+          "name": "Settings.json",
+          "type": "file",
+          "sha256": "c2f798d4ebbd3bebaad76f82d6e225fcbd66a2e97dc0bb747884ec19b4e7edd0"
+        },
+        {
+          "name": "SplashScreen.png",
+          "type": "file",
+          "sha256": "6e4b8683c796555f14e2543ee256131008e22131d4ca07a3c1539afd8074ffcc"
+        }
+      ]
+    },
+    {
+      "name": "Engine",
+      "type": "directory",
+      "children": [
+        {
+          "name": "Binaries",
+          "type": "directory",
+          "children": [
+            {
+              "name": "ThirdParty",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "DbgHelp",
+                  "type": "directory",
+                  "children": [
+                    {
+                      "name": "dbghelp.dll",
+                      "type": "file",
+                      "sha256": "504994f2347a270d536544176a1499b672e32f3036c0925db0eba667f9c2e2c7"
+                    }
+                  ]
+                },
+                {
+                  "name": "MsQuic",
+                  "type": "directory",
+                  "children": [
+                    {
+                      "name": "v220",
+                      "type": "directory",
+                      "children": [
+                        {
+                          "name": "win64",
+                          "type": "directory",
+                          "children": [
+                            {
+                              "name": "msquic.dll",
+                              "type": "file",
+                              "sha256": "22e104a400b95cfa9f669e7ec80f4e7bb4647eb535b4a3974a41b40c39cf7c7f"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "NVIDIA",
+                  "type": "directory",
+                  "children": [
+                    {
+                      "name": "NVaftermath",
+                      "type": "directory",
+                      "children": [
+                        {
+                          "name": "Win64",
+                          "type": "directory",
+                          "children": [
+                            {
+                              "name": "GFSDK_Aftermath_Lib.x64.dll",
+                              "type": "file",
+                              "sha256": "248a568317bd54a0e420218ffa3cbd742911d78b71de48264f2c69886a0d6869"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Ogg",
+                  "type": "directory",
+                  "children": [
+                    {
+                      "name": "Win64",
+                      "type": "directory",
+                      "children": [
+                        {
+                          "name": "VS2015",
+                          "type": "directory",
+                          "children": [
+                            {
+                              "name": "libogg_64.dll",
+                              "type": "file",
+                              "sha256": "9f0c4c20e2b20b56ff9454efa6fa61d5aeb32b57d0be87c7cf4a34194f58120f"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Vorbis",
+                  "type": "directory",
+                  "children": [
+                    {
+                      "name": "Win64",
+                      "type": "directory",
+                      "children": [
+                        {
+                          "name": "VS2015",
+                          "type": "directory",
+                          "children": [
+                            {
+                              "name": "libvorbisfile_64.dll",
+                              "type": "file",
+                              "sha256": "e2c1a90723a1d9ddf843b033309a388a7a5ae051cd235174f31230f40e1f8681"
+                            },
+                            {
+                              "name": "libvorbis_64.dll",
+                              "type": "file",
+                              "sha256": "36719ad589955e0167389274397a6472cd64459e68fb0d56314db1cb136f8014"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Vulkan",
+                  "type": "directory",
+                  "children": [
+                    {
+                      "name": "Win64",
+                      "type": "directory",
+                      "children": [
+                        {
+                          "name": "VkLayer_api_dump.dll",
+                          "type": "file",
+                          "sha256": "779692e33a7f85af3789db6d0c370271d19456003a89c23496b1510fa278f770"
+                        },
+                        {
+                          "name": "VkLayer_api_dump.json",
+                          "type": "file",
+                          "sha256": "32c0bfc76d4b86cbe5f85f305ca31fc86ec2a0cf197fdfb6de88d9d3932a189a"
+                        },
+                        {
+                          "name": "VkLayer_gfxreconstruct.dll",
+                          "type": "file",
+                          "sha256": "2e62c8569b209abdeaab4b7abf83cd24f2e0abc6b008c2ef69acf2ca64fa8ea6"
+                        },
+                        {
+                          "name": "VkLayer_gfxreconstruct.json",
+                          "type": "file",
+                          "sha256": "3a4753f756fde9aa219fcf2de76ebd69017df77c56ff2b2ba32312717f32fb60"
+                        },
+                        {
+                          "name": "VkLayer_khronos_profiles.dll",
+                          "type": "file",
+                          "sha256": "1fddd556038b27cf771ded04554cebe4fba630787c7bc7dc19692b67050438d5"
+                        },
+                        {
+                          "name": "VkLayer_khronos_profiles.json",
+                          "type": "file",
+                          "sha256": "da1eacd6bb2a9478d6803c11715230f4c715e656e9b5dca500e7cc74fee2becb"
+                        },
+                        {
+                          "name": "VkLayer_khronos_synchronization2.dll",
+                          "type": "file",
+                          "sha256": "2b34cebfefc5566b181181dc6a347bee52e0798d7febefec1e34427d2cf6dcdd"
+                        },
+                        {
+                          "name": "VkLayer_khronos_synchronization2.json",
+                          "type": "file",
+                          "sha256": "a616a7d20c45575fedc22241adc1de80365c213a02ba07094de5ef385a9c42a0"
+                        },
+                        {
+                          "name": "VkLayer_khronos_validation.dll",
+                          "type": "file",
+                          "sha256": "6a445de19b3cfa1c67589086d7244639ee8094c8593bb66e58a32f4522efd6af"
+                        },
+                        {
+                          "name": "VkLayer_khronos_validation.json",
+                          "type": "file",
+                          "sha256": "af24359f21c708da1326ea16d61edd0b5228d59dc44130442e45496449103bd0"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Windows",
+                  "type": "directory",
+                  "children": [
+                    {
+                      "name": "WinPixEventRuntime",
+                      "type": "directory",
+                      "children": [
+                        {
+                          "name": "x64",
+                          "type": "directory",
+                          "children": [
+                            {
+                              "name": "WinPixEventRuntime.dll",
+                              "type": "file",
+                              "sha256": "374a10458993cb947f8a9ed7a24c5905cd5c02dd38f8ac30d92c848bdd7097ae"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "XAudio2_9",
+                      "type": "directory",
+                      "children": [
+                        {
+                          "name": "x64",
+                          "type": "directory",
+                          "children": [
+                            {
+                              "name": "xaudio2_9redist.dll",
+                              "type": "file",
+                              "sha256": "610be4c93193b5719014f56541e7c7c26b7eee6cde8d299222325b84bb0092fd"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Win64",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "EOSSDK-Win64-Shipping.dll",
+                  "type": "file",
+                  "sha256": "8751153db39ddf645bff0ad19da237403926abbe795759464b1df892c8a461db"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Config",
+          "type": "directory",
+          "children": [
+            {
+              "name": "StagedBuild_KIT.ini",
+              "type": "file",
+              "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            }
+          ]
+        },
+        {
+          "name": "Content",
+          "type": "directory",
+          "children": [
+            {
+              "name": "Renderer",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "TessellationTable.bin",
+                  "type": "file",
+                  "sha256": "edc4f3b628a139c5e185bbaeca661c95c1f427368d3b92892c5cff36c56dd941"
+                }
+              ]
+            },
+            {
+              "name": "Slate",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "Cursor",
+                  "type": "directory",
+                  "children": [
+                    {
+                      "name": "invisible.cur",
+                      "type": "file",
+                      "sha256": "fef3980fa567e9c45d5d8dcaa432a2c1a3f3bb17fe67d7ab198164f56c142aa1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "SlateDebug",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "Fonts",
+                  "type": "directory",
+                  "children": [
+                    {
+                      "name": "LastResort.tps",
+                      "type": "file",
+                      "sha256": "0f775fa99d05e21d43d2d06d55982b23dcdccdb512a9a5a07aff674f212c41b8"
+                    },
+                    {
+                      "name": "LastResort.ttf",
+                      "type": "file",
+                      "sha256": "fff0f8de0b868b964950fe97c9b60f893e9bc85a4f90b3629c5693db058b97b9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Extras",
+          "type": "directory",
+          "children": [
+            {
+              "name": "GPUDumpViewer",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "GPUDumpViewer.html",
+                  "type": "file",
+                  "sha256": "2b66187908f6cc22c00ea674be95a83cec9c01923b3c754381f14526e39e802f"
+                },
+                {
+                  "name": "OpenGPUDumpViewer.bat",
+                  "type": "file",
+                  "sha256": "e8f7ef9c88697041bd87902b76e52558979ca866c7450b1da108a94a027f441b"
+                },
+                {
+                  "name": "OpenGPUDumpViewer.sh",
+                  "type": "file",
+                  "sha256": "1b222b5d5aad6dd9b5b9f0a1c72d38635149540f2c7a368600ec76c1d304390a"
+                }
+              ]
+            },
+            {
+              "name": "Redist",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "en-us",
+                  "type": "directory",
+                  "children": [
+                    {
+                      "name": "UEPrereqSetup_x64.exe",
+                      "type": "file",
+                      "sha256": "d0ce78f1771cf3ae0b13f01c262c1c6fd3d673d673678d3ca7c0569a75963d27"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Plugins",
+          "type": "directory",
+          "children": [
+            {
+              "name": "NNE",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "NNERuntimeORT",
+                  "type": "directory",
+                  "children": [
+                    {
+                      "name": "Binaries",
+                      "type": "directory",
+                      "children": [
+                        {
+                          "name": "ThirdParty",
+                          "type": "directory",
+                          "children": [
+                            {
+                              "name": "Onnxruntime",
+                              "type": "directory",
+                              "children": [
+                                {
+                                  "name": "Win64",
+                                  "type": "directory",
+                                  "children": [
+                                    {
+                                      "name": "onnxruntime.dll",
+                                      "type": "file",
+                                      "sha256": "7e90e089d2df40b1a83b11434d6df8f9d963f1d1d684f1c22645660ba3a55772"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Saved",
+          "type": "directory",
+          "children": [
+            {
+              "name": "Config",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "Windows",
+                  "type": "directory",
+                  "children": [
+                    {
+                      "name": "Manifest.ini",
+                      "type": "file",
+                      "sha256": "531bfb7088f544a87ff1268a69a3648dc0648ba49aaca9c3c67d4c4dcf87f088"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "EOSBootstrapper.exe",
+      "type": "file",
+      "sha256": "2916b2c51251e25f339844379e53d1ce2781e7a224f4ffd8268a7c557e71348b"
+    },
+    {
+      "name": "EOSBootstrapper.ini",
+      "type": "file",
+      "sha256": "a61c6483c36a5966e24178b824b8378665d6933d6913f5574531e61ac318066f"
+    },
+    {
+      "name": "KIT",
+      "type": "directory",
+      "children": [
+        {
+          "name": "Binaries",
+          "type": "directory",
+          "children": [
+            {
+              "name": "Win64",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "boost_atomic-mt-x64.dll",
+                  "type": "file",
+                  "sha256": "cf73a8e2e8c23f2c4f32c24dd1fe989b34e0ea98d86be894f176afc9793d64a1"
+                },
+                {
+                  "name": "boost_chrono-mt-x64.dll",
+                  "type": "file",
+                  "sha256": "c01e005151cc07bd401914716549b8aece73dac2d39d82b56421447b2fdfefff"
+                },
+                {
+                  "name": "boost_filesystem-mt-x64.dll",
+                  "type": "file",
+                  "sha256": "0b5a6f3855776356d7888596026a2a87f9c488e454ee3900126259586ede1180"
+                },
+                {
+                  "name": "boost_iostreams-mt-x64.dll",
+                  "type": "file",
+                  "sha256": "639e5f18dac1586b8c943ba8e5b6b277bc98d6414fd6c1267382645d87722f3b"
+                },
+                {
+                  "name": "boost_program_options-mt-x64.dll",
+                  "type": "file",
+                  "sha256": "0749cd456b538eaaf1ec88d0d4523c35247090feadbe13bf082de9f2fdc1883e"
+                },
+                {
+                  "name": "boost_python311-mt-x64.dll",
+                  "type": "file",
+                  "sha256": "eeb7c7a31c65f2cb7d11a807eaf74bc55282c479edc9719fd844d9f4a44f1934"
+                },
+                {
+                  "name": "boost_regex-mt-x64.dll",
+                  "type": "file",
+                  "sha256": "8c9c759c20e3859b74a0e3fa06fb2ebf38ed9ca85425410f041552722794a078"
+                },
+                {
+                  "name": "boost_system-mt-x64.dll",
+                  "type": "file",
+                  "sha256": "2672ae7a2e95c165c07d8ef6cc4540ba23711addb1d0b33ef9efba834be11f66"
+                },
+                {
+                  "name": "boost_thread-mt-x64.dll",
+                  "type": "file",
+                  "sha256": "7652e87121fa20a1e1c118e9a2d3480f94db4fdb0694000b04ac5d14fb0d05c6"
+                },
+                {
+                  "name": "D3D12",
+                  "type": "directory",
+                  "children": [
+                    {
+                      "name": "D3D12Core.dll",
+                      "type": "file",
+                      "sha256": "b32ff10fe40c8d6384fa8cb4337db7ba95917c0547596986148dfe5fd306ca28"
+                    },
+                    {
+                      "name": "d3d12SDKLayers.dll",
+                      "type": "file",
+                      "sha256": "2650209345c56777783a5cff7ebfd5450d73c643f45d4ddadfb5e46a5293feac"
+                    }
+                  ]
+                },
+                {
+                  "name": "DML",
+                  "type": "directory",
+                  "children": [
+                    {
+                      "name": "DirectML.dll",
+                      "type": "file",
+                      "sha256": "e51e77794bf1dff3007a804de26fec2813413ea4ce14bf894cf52fa1b8863d0e"
+                    }
+                  ]
+                },
+                {
+                  "name": "EOSSDK-Win64-Shipping.dll",
+                  "type": "file",
+                  "sha256": "1a24a9c82a9f0c5a5289df8234b5b300bc99af7d59ab01232b3cf1f37444624b"
+                },
+                {
+                  "name": "EOSSDK-Win64-Shipping.lib",
+                  "type": "file",
+                  "sha256": "c39f8f96b692a3572f0d3b6f3994298b10d3a5db80b8128f18b3ad996576674d"
+                },
+                {
+                  "name": "KIT.exe",
+                  "type": "file",
+                  "sha256": "e67edb0b88bfddfc669bb330a657e7765a7613d41d4358d743fa96ba797adce5"
+                },
+                {
+                  "name": "KIT.pdb",
+                  "type": "file",
+                  "sha256": "babbbf28b62575468fcebf29e1790b123f09b2e836908286630f4bdfdf4a42a2"
+                },
+                {
+                  "name": "tbb.dll",
+                  "type": "file",
+                  "sha256": "35863379302909cc4c6cc73c388a1d23bc7f5fa668e439dac2264327a4fc41d6"
+                },
+                {
+                  "name": "tbb.pdb",
+                  "type": "file",
+                  "sha256": "241455a154d1686242b1731a5ee7010f11a3c455b987ed2c69555443f4e12a00"
+                },
+                {
+                  "name": "tbbmalloc.dll",
+                  "type": "file",
+                  "sha256": "65fc3984517eed2b0758b4d6c6319e2da9dcf7dac1192b793ad04713ceca8fa5"
+                },
+                {
+                  "name": "tbbmalloc.pdb",
+                  "type": "file",
+                  "sha256": "a38bdac5dd93acb86446e65dad87e4521ecf9e7fe551c7bb3959652791ffae42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Content",
+          "type": "directory",
+          "children": [
+            {
+              "name": "Paks",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "global.ucas",
+                  "type": "file",
+                  "sha256": "a805b263c1898a4ade47712ac49186d24df8557b2e12781aed50fd0cd1d2de4e"
+                },
+                {
+                  "name": "global.utoc",
+                  "type": "file",
+                  "sha256": "5693eb06916b4ac175645afb102df3d1889d0bb28a3547e9be8a7b975eb10ea0"
+                },
+                {
+                  "name": "KIT-Windows.pak",
+                  "type": "file",
+                  "sha256": "af419a66e617407d6676bfb754e949b3cb185f6b3f0bb458c6523cef60ccf403"
+                },
+                {
+                  "name": "KIT-Windows.ucas",
+                  "type": "file",
+                  "sha256": "cec751bc3be15149f141a6573c660f3bb528f60746dd65b5691993eb67f6aed0"
+                },
+                {
+                  "name": "KIT-Windows.utoc",
+                  "type": "file",
+                  "sha256": "f823d0bddef0c1826eea421c8f5733fa507731776a72a36ff16ccddb601cda66"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Saved",
+          "type": "directory",
+          "children": [
+            {
+              "name": "Config",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "CrashReportClient",
+                  "type": "directory",
+                  "children": [
+                    {
+                      "name": "UECC-Windows-07E57E514B77574C4E2AF38725CDD46B",
+                      "type": "directory",
+                      "children": [
+                        {
+                          "name": "CrashReportClient.ini",
+                          "type": "file",
+                          "sha256": "975d6eab28bea170097e8643fc65c2c3a1e0c7d2ea343aaed80899663121c7f5"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "UECC-Windows-090CE4C74C3392C093FE868D3E17C9F2",
+                      "type": "directory",
+                      "children": [
+                        {
+                          "name": "CrashReportClient.ini",
+                          "type": "file",
+                          "sha256": "975d6eab28bea170097e8643fc65c2c3a1e0c7d2ea343aaed80899663121c7f5"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "UECC-Windows-10920FBB45BD4A64CAFE82B23AA42166",
+                      "type": "directory",
+                      "children": [
+                        {
+                          "name": "CrashReportClient.ini",
+                          "type": "file",
+                          "sha256": "975d6eab28bea170097e8643fc65c2c3a1e0c7d2ea343aaed80899663121c7f5"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "UECC-Windows-1711542E46BA846864A713952FA8C1B1",
+                      "type": "directory",
+                      "children": [
+                        {
+                          "name": "CrashReportClient.ini",
+                          "type": "file",
+                          "sha256": "975d6eab28bea170097e8643fc65c2c3a1e0c7d2ea343aaed80899663121c7f5"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "UECC-Windows-4C4BF9174DFD301C6D3A24B62B685FC5",
+                      "type": "directory",
+                      "children": [
+                        {
+                          "name": "CrashReportClient.ini",
+                          "type": "file",
+                          "sha256": "975d6eab28bea170097e8643fc65c2c3a1e0c7d2ea343aaed80899663121c7f5"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "UECC-Windows-504FDAB245A6CDDFCA5AF8899AA39B33",
+                      "type": "directory",
+                      "children": [
+                        {
+                          "name": "CrashReportClient.ini",
+                          "type": "file",
+                          "sha256": "975d6eab28bea170097e8643fc65c2c3a1e0c7d2ea343aaed80899663121c7f5"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "UECC-Windows-693BF17C4D3CD2668358E19813D4B833",
+                      "type": "directory",
+                      "children": [
+                        {
+                          "name": "CrashReportClient.ini",
+                          "type": "file",
+                          "sha256": "975d6eab28bea170097e8643fc65c2c3a1e0c7d2ea343aaed80899663121c7f5"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "UECC-Windows-87D67AAC457161708C46DD998CF99EFB",
+                      "type": "directory",
+                      "children": [
+                        {
+                          "name": "CrashReportClient.ini",
+                          "type": "file",
+                          "sha256": "975d6eab28bea170097e8643fc65c2c3a1e0c7d2ea343aaed80899663121c7f5"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "UECC-Windows-9949207040F97F5A34AC8F86A169CD67",
+                      "type": "directory",
+                      "children": [
+                        {
+                          "name": "CrashReportClient.ini",
+                          "type": "file",
+                          "sha256": "975d6eab28bea170097e8643fc65c2c3a1e0c7d2ea343aaed80899663121c7f5"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "UECC-Windows-B1D8581A406BAAE0CADE698964A89E0A",
+                      "type": "directory",
+                      "children": [
+                        {
+                          "name": "CrashReportClient.ini",
+                          "type": "file",
+                          "sha256": "975d6eab28bea170097e8643fc65c2c3a1e0c7d2ea343aaed80899663121c7f5"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "UECC-Windows-D139D5B146D3582BBA82D892C9D68D3D",
+                      "type": "directory",
+                      "children": [
+                        {
+                          "name": "CrashReportClient.ini",
+                          "type": "file",
+                          "sha256": "975d6eab28bea170097e8643fc65c2c3a1e0c7d2ea343aaed80899663121c7f5"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "UECC-Windows-DA8BE04043B93C54AC022893758F60EF",
+                      "type": "directory",
+                      "children": [
+                        {
+                          "name": "CrashReportClient.ini",
+                          "type": "file",
+                          "sha256": "975d6eab28bea170097e8643fc65c2c3a1e0c7d2ea343aaed80899663121c7f5"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "UECC-Windows-E1BE7FAC452851EB3A1343BCCC0C5569",
+                      "type": "directory",
+                      "children": [
+                        {
+                          "name": "CrashReportClient.ini",
+                          "type": "file",
+                          "sha256": "975d6eab28bea170097e8643fc65c2c3a1e0c7d2ea343aaed80899663121c7f5"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "UECC-Windows-FDAEE8FC4B48A16836EBB893BBE96D75",
+                      "type": "directory",
+                      "children": [
+                        {
+                          "name": "CrashReportClient.ini",
+                          "type": "file",
+                          "sha256": "975d6eab28bea170097e8643fc65c2c3a1e0c7d2ea343aaed80899663121c7f5"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Windows",
+                  "type": "directory",
+                  "children": [
+                    {
+                      "name": "GameUserSettings.ini",
+                      "type": "file",
+                      "sha256": "8254155cb66496046793963493221a7616f517f92e1eaf1c98d5fd971964cbc7"
+                    },
+                    {
+                      "name": "Input.ini",
+                      "type": "file",
+                      "sha256": "fc6cdf1770547b78a3bb17b7cdc6b1c93b0973f6a6d48b55ab9e54dec3f1303e"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Logs",
+              "type": "directory",
+              "children": [
+                {
+                  "name": "KIT-backup-2025.07.02-09.04.58.log",
+                  "type": "file",
+                  "sha256": "1435210c298ce0146c70592a052cca8ee706c4921ff139c84058e1b4de2c7d04"
+                },
+                {
+                  "name": "KIT-backup-2025.07.02-09.06.23.log",
+                  "type": "file",
+                  "sha256": "4fb40d28ab623a89b8b39564716837fe34e07970ceee0e1e215d03f3d12a40ca"
+                },
+                {
+                  "name": "KIT-backup-2025.07.02-09.25.36.log",
+                  "type": "file",
+                  "sha256": "433d8af7f5f2b89cff6819e24d5fccbacd6eabcc27d8a351a773d3502cb15905"
+                },
+                {
+                  "name": "KIT-backup-2025.07.02-09.28.30.log",
+                  "type": "file",
+                  "sha256": "baff1a141833939d457562c1059b3ff3835325b58686ed1aa363a72150ad8394"
+                },
+                {
+                  "name": "KIT-backup-2025.07.02-09.29.36.log",
+                  "type": "file",
+                  "sha256": "f9c28e0c43faae7117d89dca5810616c4d2b96d3484153f5431a43eb01a5de1e"
+                },
+                {
+                  "name": "KIT-backup-2025.07.02-09.39.24.log",
+                  "type": "file",
+                  "sha256": "51d460370e47b1a1c5d56f6713dbdc48abc49e8d54cdb4171174d6738ec8fd50"
+                },
+                {
+                  "name": "KIT-backup-2025.07.02-09.42.29.log",
+                  "type": "file",
+                  "sha256": "57a0ff9bc66ebf14542a18c2ddfc6987e9caee12862a7c759463a3740466d548"
+                },
+                {
+                  "name": "KIT-backup-2025.07.02-10.01.16.log",
+                  "type": "file",
+                  "sha256": "eb846f117a50c98c702a14964c3c03b846ca99b87ea828356eef886f2844ab84"
+                },
+                {
+                  "name": "KIT-backup-2025.07.02-10.04.19.log",
+                  "type": "file",
+                  "sha256": "27b7526ae76b78e12c2ab71a2c638fecb65d312c3925e9d279cb18a9ad685ca2"
+                },
+                {
+                  "name": "KIT-backup-2025.07.02-10.07.29.log",
+                  "type": "file",
+                  "sha256": "caf3709964a419f1c2978e904221065f4fb5c8ecfab78e836ad8e6270465684e"
+                },
+                {
+                  "name": "KIT.log",
+                  "type": "file",
+                  "sha256": "9e858506cf06ad620c45141b9f3b087e6b2c7b9ecc29d6f349f6106cbd7a3847"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "KIT.exe",
+      "type": "file",
+      "sha256": "d7c1048d804f9d604a58bf39b03bf619fdbd05e10ea99ef93ce0252eb8765df5"
+    },
+    {
+      "name": "KIT.exe.eac",
+      "type": "file",
+      "sha256": "1873a844c0384bb534d6d38caff3c8aadee32623e2417a9db09b4aeedf09f1cb"
+    },
+    {
+      "name": "Manifest_DebugFiles_Win64.txt",
+      "type": "file",
+      "sha256": "318bacc4d71cf59436bb7d6933e7c46d1a831fb17682b0cf42709e0c87ecce8c"
+    },
+    {
+      "name": "Manifest_NonUFSFiles_Win64.txt",
+      "type": "file",
+      "sha256": "d20209e838043a69aa0ab3f82f5fd2c82e252d645a89d8213e452152f7991a5a"
+    },
+    {
+      "name": "Manifest_UFSFiles_Win64.txt",
+      "type": "file",
+      "sha256": "8ef90643013e839efe6e73ce1d7b8dacb1c1759cc59c515bd69a3c1aff06eb99"
+    }
+  ]
+}
